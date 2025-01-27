@@ -1,8 +1,10 @@
 using System;
-class Program
+// This is the code editor
+class Example
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        Console.WriteLine("This is a simple activity.");
+        Console.WriteLine("This is the code editor.");
     }
 }
+
