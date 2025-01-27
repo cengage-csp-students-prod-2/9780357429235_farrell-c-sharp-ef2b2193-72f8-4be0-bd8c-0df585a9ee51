@@ -12,7 +12,7 @@ class Example
 
 // Pasted code
 using System;
-
+d
 class Program
 {
     static void Main(string[] args)
