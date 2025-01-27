@@ -11,6 +11,8 @@ class Example
 }
 
 // Pasted code
+using System;
+
 class Program
 {
     static void Main(string[] args)
