@@ -6,8 +6,8 @@ class InchesToCentimeters
 	static void Main()
 	{
 		const double CENTEMETERS_PERS_INCH = 2.54;
-		float inches = 3;
-		float cm = inches * CENTEMETERS_PERS_INCH;
+		double inches = 3;
+		double cm = inches * CENTEMETERS_PERS_INCH;
 		WriteLine(inches + " inches is " + cm + " centimeters");
 	}
 }
