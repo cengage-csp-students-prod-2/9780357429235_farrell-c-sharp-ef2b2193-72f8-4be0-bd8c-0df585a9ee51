@@ -1,11 +1,11 @@
 using System;
 using static System.Console;
 using System.Globalization;
-class DoubleDecimalTest
+class InchesToCentimeters 
 {
 	static void Main()
 	{
-		^s*double.+;
-		^\s*decimal.+$;
+		float inches = 3;
+		float cm = inches * 2.54;
 	}
 }
