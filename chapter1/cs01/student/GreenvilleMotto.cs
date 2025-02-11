@@ -3,7 +3,9 @@ class GreenvilleMotto
 {
    static void Main(string[] args)
    {
-       // Write your code here
+       WriteLine("************************************");
+       WriteLine("*  The stars shine in Greenville.  * ");
+       WriteLine("************************************");
    }
 }
 
