@@ -1,13 +1,13 @@
 using static System.Console;
 class DebugOne1
 {
-   static void Main()
+   static void MainD1()
    {
-      Writeline("This program displays some keyboard punctuation");
+      WriteLine("This program displays some keyboard punctuation");
       WriteLine("!   exclamation point");
-      WriteLine("@   at-sign")
-      WriteLine(("#   pound sign or hash mark");
-      WriteLine("$   dollar sign);
+      WriteLine("@   at-sign");
+      WriteLine("#   pound sign or hash mark");
+      WriteLine("$   dollar sign");
    }
 }
 
