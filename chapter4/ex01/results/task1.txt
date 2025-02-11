@@ -1,0 +1,45 @@
+
+Status: FAILED!
+Check: 1
+Test: Credit limit approved, test 1
+Reason: Unable to find '['Approved']' in the program's output.
+```
+
+Lucinda Potter
+6/24/1992
+work 000-555-0101
+cell 000-555-0189
+```
+.
+Error : AssertionError - Unable to find Approved in the program's output.
+Timestamp: 2025-02-11 07:55:46.601152
+
+Status: FAILED!
+Check: 2
+Test: Credit limit exceeded
+Reason: Unable to find '['You have exceeded the credit limit']' in the program's output.
+```
+
+Lucinda Potter
+6/24/1992
+work 000-555-0101
+cell 000-555-0189
+```
+.
+Error : AssertionError - Unable to find You have exceeded the credit limit in the program's output.
+Timestamp: 2025-02-11 07:55:46.619360
+
+Status: FAILED!
+Check: 3
+Test: Credit limit approved, test 2
+Reason: Unable to find '['Approved']' in the program's output.
+```
+
+Lucinda Potter
+6/24/1992
+work 000-555-0101
+cell 000-555-0189
+```
+.
+Error : AssertionError - Unable to find Approved in the program's output.
+Timestamp: 2025-02-11 07:55:46.638162
