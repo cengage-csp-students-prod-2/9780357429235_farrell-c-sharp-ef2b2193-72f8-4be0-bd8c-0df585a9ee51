@@ -1,7 +1,7 @@
 using static System.Console;
 class DebugOne1
 {
-   static void MainD1()
+   static void Main()
    {
       WriteLine("This program displays some keyboard punctuation");
       WriteLine("!   exclamation point");
