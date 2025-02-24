@@ -19,7 +19,7 @@ class GreenvilleRevenue
     bool revenueIncreased = revenueThisYear > revenueLastYear;
     
    // output
-   if (contestantsLastYear == contestantsThisYear/2)
+   if (contestantsLastYear <= contestantsThisYear/2)
    {
       WriteLine("The competition is more than twice as big this year!");
    }
