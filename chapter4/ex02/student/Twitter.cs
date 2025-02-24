@@ -7,6 +7,11 @@ class Twitter
 	{
 		Write("Please enter your username >>");
 		string username = ReadLine();
-		if (user)
+		if (username.length < 140){
+			Write("The message is too long");
+		}
+		else{
+			Write("The message is okay");
+		}
 	}
 }
