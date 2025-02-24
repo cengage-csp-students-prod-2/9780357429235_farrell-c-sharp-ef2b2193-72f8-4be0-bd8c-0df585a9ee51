@@ -28,7 +28,7 @@ class DebugFour1
 
       else{
          if(wantCheese == "Y")
-            price = BASIC_DOG_PRICE;
+            price = BASIC_DOG_PRICE + CHEESE_PRICE;
          else
             price = BASIC_DOG_PRICE;
       }
