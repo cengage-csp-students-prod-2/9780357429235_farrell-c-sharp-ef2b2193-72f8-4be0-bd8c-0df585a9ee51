@@ -5,6 +5,8 @@ class Twitter
 {
 	static void Main()
 	{
-		// Write your code here
+		Write("Please enter your username >>");
+		string username = ReadLine();
+		if (user)
 	}
 }
