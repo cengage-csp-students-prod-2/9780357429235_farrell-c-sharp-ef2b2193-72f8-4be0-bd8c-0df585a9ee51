@@ -1,60 +1,42 @@
 
 Status: FAILED!
-Reason: Unable to run DebugFour2.cs
-Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
-
-Timestamp: 2025-02-24 02:37:44.496145
-
-Status: FAILED!
-Reason: Unable to run DebugFour2.cs
-Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
-
-Timestamp: 2025-02-24 02:37:44.496263
+Check: 1
+Test: Sequential order, test 1
+Reason: Unable to find '['Numbers are in sequential order']' in the program's output.
+Enter first number Enter second number Enter third number Numbers are in reverse order
+.
+Error : AssertionError - Unable to find Numbers are in sequential order in the program's output.
+Timestamp: 2025-02-24 02:38:11.954479
 
 Status: FAILED!
-Reason: Unable to run DebugFour2.cs
-Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
-
-Timestamp: 2025-02-24 02:37:44.509879
-
-Status: FAILED!
-Reason: Unable to run DebugFour2.cs
-Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
-
-Timestamp: 2025-02-24 02:37:44.509953
+Check: 2
+Test: Sequential order, test 2
+Reason: Unable to find '['Numbers are in sequential order']' in the program's output.
+Enter first number Enter second number Enter third number Numbers are in neither sequential nor reverse order
+.
+Error : AssertionError - Unable to find Numbers are in sequential order in the program's output.
+Timestamp: 2025-02-24 02:38:11.974463
 
 Status: FAILED!
-Reason: Unable to run DebugFour2.cs
-Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
-
-Timestamp: 2025-02-24 02:37:44.522643
-
-Status: FAILED!
-Reason: Unable to run DebugFour2.cs
-Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
-
-Timestamp: 2025-02-24 02:37:44.522701
+Check: 3
+Test: Reverse order, test 1
+Reason: Unable to find '['Numbers are in reverse order']' in the program's output.
+Enter first number Enter second number Enter third number Numbers are in sequential order
+.
+Error : AssertionError - Unable to find Numbers are in reverse order in the program's output.
+Timestamp: 2025-02-24 02:38:11.993541
 
 Status: FAILED!
-Reason: Unable to run DebugFour2.cs
-Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
+Check: 4
+Test: Reverse order, test 2
+Reason: Unable to find '['Numbers are in reverse order']' in the program's output.
+Enter first number Enter second number Enter third number Numbers are in sequential order
+.
+Error : AssertionError - Unable to find Numbers are in reverse order in the program's output.
+Timestamp: 2025-02-24 02:38:12.013059
 
-Timestamp: 2025-02-24 02:37:44.535160
-
-Status: FAILED!
-Reason: Unable to run DebugFour2.cs
-Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
-
-Timestamp: 2025-02-24 02:37:44.535211
-
-Status: FAILED!
-Reason: Unable to run DebugFour2.cs
-Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
-
-Timestamp: 2025-02-24 02:37:44.547853
-
-Status: FAILED!
-Reason: Unable to run DebugFour2.cs
-Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
-
-Timestamp: 2025-02-24 02:37:44.547900
+Status: PASSED!
+Check: 5
+Test: Neither sequential or reverse order
+Reason: None
+Timestamp: 2025-02-24 02:38:12.032176
