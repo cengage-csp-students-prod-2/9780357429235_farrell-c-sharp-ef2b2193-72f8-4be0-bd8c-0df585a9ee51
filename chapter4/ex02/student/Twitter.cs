@@ -7,7 +7,7 @@ class Twitter
 	{
 		Write("Please enter your username >>");
 		string username = ReadLine();
-		if (username.Length < 140){
+		if (username.Length > 140){
 			Write("The message is too long");
 		}
 		else{
