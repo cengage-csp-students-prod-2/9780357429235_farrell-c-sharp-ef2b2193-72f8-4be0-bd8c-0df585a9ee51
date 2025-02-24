@@ -22,10 +22,10 @@ class DebugFour2
       snum3 = ReadLine();
       num3 = Convert.ToInt32(snum3);
 
-      if(num1 > num2 && num2 >= num3)
+      if(num1 < num2 && num2 <= num3)
          WriteLine("Numbers are in sequential order");
       else
-         if(num1 < num2 && num2 <= num3)
+         if(num1 > num2 && num2 >= num3)
             WriteLine("Numbers are in reverse order");
          else
             WriteLine("Numbers are in neither sequential nor reverse order");
