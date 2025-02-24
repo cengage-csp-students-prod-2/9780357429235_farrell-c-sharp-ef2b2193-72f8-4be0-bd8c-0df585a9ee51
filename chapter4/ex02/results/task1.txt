@@ -1,24 +1,16 @@
 
 Status: FAILED!
-Reason: Unable to run Twitter.cs
-Error: Cannot open assembly 'Twitter.exe': No such file or directory.
-
-Timestamp: 2025-02-24 02:11:39.697945
-
-Status: FAILED!
-Reason: Unable to run Twitter.cs
-Error: Cannot open assembly 'Twitter.exe': No such file or directory.
-
-Timestamp: 2025-02-24 02:11:39.698047
+Check: 1
+Test: Message within 140 character limit
+Reason: Unable to find '['The message is okay']' in the program's output.
+Please enter your username >>The message is too long.
+Error : AssertionError - Unable to find The message is okay in the program's output.
+Timestamp: 2025-02-24 02:13:55.826845
 
 Status: FAILED!
-Reason: Unable to run Twitter.cs
-Error: Cannot open assembly 'Twitter.exe': No such file or directory.
-
-Timestamp: 2025-02-24 02:11:39.710840
-
-Status: FAILED!
-Reason: Unable to run Twitter.cs
-Error: Cannot open assembly 'Twitter.exe': No such file or directory.
-
-Timestamp: 2025-02-24 02:11:39.710912
+Check: 2
+Test: Message exceeds 140 character limit
+Reason: Unable to find '['The message is too long']' in the program's output.
+Please enter your username >>The message is okay.
+Error : AssertionError - Unable to find The message is too long in the program's output.
+Timestamp: 2025-02-24 02:13:55.845834
