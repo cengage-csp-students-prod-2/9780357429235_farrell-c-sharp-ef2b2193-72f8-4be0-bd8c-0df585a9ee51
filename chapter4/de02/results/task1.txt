@@ -1,0 +1,60 @@
+
+Status: FAILED!
+Reason: Unable to run DebugFour2.cs
+Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
+
+Timestamp: 2025-02-24 02:37:44.496145
+
+Status: FAILED!
+Reason: Unable to run DebugFour2.cs
+Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
+
+Timestamp: 2025-02-24 02:37:44.496263
+
+Status: FAILED!
+Reason: Unable to run DebugFour2.cs
+Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
+
+Timestamp: 2025-02-24 02:37:44.509879
+
+Status: FAILED!
+Reason: Unable to run DebugFour2.cs
+Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
+
+Timestamp: 2025-02-24 02:37:44.509953
+
+Status: FAILED!
+Reason: Unable to run DebugFour2.cs
+Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
+
+Timestamp: 2025-02-24 02:37:44.522643
+
+Status: FAILED!
+Reason: Unable to run DebugFour2.cs
+Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
+
+Timestamp: 2025-02-24 02:37:44.522701
+
+Status: FAILED!
+Reason: Unable to run DebugFour2.cs
+Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
+
+Timestamp: 2025-02-24 02:37:44.535160
+
+Status: FAILED!
+Reason: Unable to run DebugFour2.cs
+Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
+
+Timestamp: 2025-02-24 02:37:44.535211
+
+Status: FAILED!
+Reason: Unable to run DebugFour2.cs
+Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
+
+Timestamp: 2025-02-24 02:37:44.547853
+
+Status: FAILED!
+Reason: Unable to run DebugFour2.cs
+Error: Cannot open assembly 'DebugFour2.exe': No such file or directory.
+
+Timestamp: 2025-02-24 02:37:44.547900
