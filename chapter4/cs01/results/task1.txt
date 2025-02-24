@@ -1,0 +1,24 @@
+
+Status: FAILED!
+Check: 1
+Test: Over twice as many contestants this year
+Reason: Unable to find '['The competition is more than twice as big this year!']' in the program's output.
+Enter number of contestants last year >> Enter number of contestants this year >> The competition is bigger than ever!
+Last year's competition had 15 contestants, and this year's has 35 contestants
+Revenue expected this year is $875.00
+It is True that this year's competition is bigger than last year's
+.
+Error : AssertionError - Unable to find The competition is more than twice as big this year! in the program's output.
+Timestamp: 2025-02-24 03:01:52.904381
+
+Status: PASSED!
+Check: 2
+Test: Less contestants this year
+Reason: None
+Timestamp: 2025-02-24 03:01:52.926692
+
+Status: PASSED!
+Check: 3
+Test: More contestants this year
+Reason: None
+Timestamp: 2025-02-24 03:01:52.948324
